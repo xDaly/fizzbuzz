@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "projet node test ",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xDaly/fizzbuzz.git"
+  },
+  "author": "xDalyNodeJs",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/xDaly/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/xDaly/fizzbuzz#readme"
+}
